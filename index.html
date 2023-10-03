@@ -20,9 +20,11 @@
             font-size: 40px;
         }
 
-        .bolded {
-            font-family: 'Bona Nova', serif;
-            font-weight: 700;
+        @supports (font-variation-settings: "wght" 450) {
+            .bolded {
+                font-family: 'Bona Nova', serif;
+                font-weight: 700;
+            }
         }
         
         .rtl {
