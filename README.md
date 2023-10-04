@@ -4,8 +4,14 @@
 
 left:
 הנחת ידיים על הכסא מוקדם יותר
-seo
-analytics page views
+seo:
+https://www.reliablesoft.net/sitelinks/
+https://www.semrush.com/blog/meta-description/
+https://www.semrush.com/blog/open-graph/
+
+analytics:
+https://analytics.google.com/analytics/web/#/p409864473/reports/intelligenthome
+https://support.google.com/tagmanager/answer/12811173
 
 
 note:
