@@ -1,7 +1,6 @@
 # ulu-ushpizin
 
 left:
-הדגשת ראשי תיבות
 הנחת ידיים על הכסא מוקדם יותר
 seo
 analytics page views
