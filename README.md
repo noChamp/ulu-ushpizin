@@ -22,3 +22,7 @@ https://support.google.com/tagmanager/answer/12811173
 
 note:
 לנוחיותכם, למקפידים על הזמנת האושפיזין לסוכה, הכנתי כאן עמוד שיכול לחסוך לכם להוריד מהבית סידור לסוכה
+
+you can see here https://sefirat-haomer.vercel.app/ how they have done it beautifully with https://www.npmjs.com/package/moment-with-locales-es6 and https://github.com/hebcal/hebcal-es6 and this great font https://www.sbl-site.org/educational/BiblicalFonts_SBLHebrew.aspx
+see also their css
+
